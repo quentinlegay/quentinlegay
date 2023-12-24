@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quentinlegay&show_icons=true&locale=fr&layout=compact" alt="quentinlegay" /></p>
-
 <!--
 **quentinlegay/quentinlegay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
